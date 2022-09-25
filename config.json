@@ -1,0 +1,19 @@
+{
+    "capmonsterKey": "Key Here",
+    "botToken": "Token Here",
+    "cashap": "$trlmfao",
+    "paypalme": "https://paypal.me/wydreyo",
+    "btc": "Soon",
+    "vouchid": "Vouch ID",
+    "guildID": "GUILD ID",
+    "botAdminId": [
+        "ID HERE",
+        "ID HERE",
+        "ID HERE"
+    ],
+    "botWhitelistedId": [
+        "ID HERE",
+        "ID HERE",
+        "ID HERE"
+    ]
+}
